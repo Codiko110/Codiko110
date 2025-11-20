@@ -19,9 +19,8 @@
 
 | 🌐 Frontend | ⚙️ Backend | 📱 Mobile | 🗄️ Databases |
 |------------|------------|-----------|--------------|
-| <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" height="50" /> | <img src="https://skillicons.dev/icons?i=php,django,java" height="50" /> | <img src="https://skillicons.dev/icons?i=react" height="50" />React Native | <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" height="50" /> | <img src="https://skillicons.dev/icons?i=php,django,python,java" height="50" /> | <img src="https://skillicons.dev/icons?i=react" height="50" /> React Native | <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50" /> |
 
----
 
 ## 🔧 Tools & Platforms  
 <p align="center">
